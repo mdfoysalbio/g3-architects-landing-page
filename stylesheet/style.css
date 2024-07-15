@@ -191,7 +191,7 @@ margin-top: -10px;
 .section3-container{
     display: grid;
     grid-template-columns: repeat(4, 200px);
-    gap: 80px;
+    gap: 130px;
     padding-left: 150px;
     margin-top: 80px;
     height: 200px;
@@ -236,3 +236,40 @@ margin-top: -30px;
 
 
 /* section 3 end here  */
+
+
+
+/* section 4 start here  */
+
+.section4{
+    text-align: center;
+}
+
+.section4 h2{
+    margin-top: 80px;
+    color: rgb(19, 19, 19);
+font-family: Work Sans;
+font-size: 2.82rem;
+font-weight: 700;
+}
+
+.section4 p{
+    color: rgb(114, 114, 114);
+font-family: Work Sans;
+font-size: 1rem;
+font-weight: 400;
+}
+
+.sponsor-company{
+  display: flex;
+  gap: 110px;
+  margin-top: 60px;
+  padding-left: 120px;
+  margin-bottom: 120px;
+}
+
+.sponsor-company img{
+    filter: grayscale(100%);
+}
+
+/* section 4 end here  */
